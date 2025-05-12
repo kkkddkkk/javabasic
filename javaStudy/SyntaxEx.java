@@ -11,8 +11,6 @@ package javaStudy;
 //하나의 자바 소스 파일 내에는 하나 이상의 클래스를 정의할 수 있음. 단 public은 단 하나의 키워드만 가질 수 있음.(2번 이상 사용 시 에러)
 //public을 가진 클래스가 대표 클래스. main method를 가지며, 파일명을 이 클래스명으로 함.
 
-class $0me_C1s{
-}
 
 public class SyntaxEx {
 	
